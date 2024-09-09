@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArbolTRIB
+comment1.params=
+comment1.target=ArbolTRIB()
+comment2.params=
+comment2.target=boolean\ esVacia()
+comment3.params=dato
+comment3.target=void\ insertar(java.lang.Comparable)
+comment4.params=
+comment4.target=int\ repetidos()
+comment5.params=ar
+comment5.target=void\ entradaFast(java.lang.Comparable[])
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PilaVolteada
+comment0.text=Clase\ que\ implementa\ una\ pila\ que\ puede\ devolver\ el\ m\u00EDnimo\ elemento\ en\ tiempo\ constante.\r\n
+comment1.params=pila
+comment1.target=Pila\ pilaVolt(Pila)
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Cola
+comment0.text=\r\n\r\nClase\ que\ representa\ una\ cola\ gen\u00E9rica\ (Cola)\ utilizando\ una\ lista\ doblemente\ enlazada.\r\n
+comment1.params=
+comment1.target=Cola()
+comment2.params=
+comment2.target=boolean\ vacia()
+comment3.params=dato
+comment3.target=void\ encolar(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ decolar()
+comment5.params=
+comment5.target=java.lang.Object\ ver()
+numComments=6

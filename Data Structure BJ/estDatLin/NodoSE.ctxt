@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=NodoSE
+comment0.text=\r\n\ Clase\ que\ representa\ un\ nodo\ de\ una\ lista\ simplemente\ enlazada.\r\n
+comment1.params=
+comment1.target=NodoSE()
+comment2.params=valor
+comment2.target=NodoSE(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ getDato()
+comment4.params=
+comment4.target=NodoSE\ getSuc()
+comment5.params=valor
+comment5.target=void\ setDato(java.lang.Object)
+comment6.params=otro
+comment6.target=void\ setSuc(NodoSE)
+comment7.params=
+comment7.target=boolean\ vacio()
+numComments=8

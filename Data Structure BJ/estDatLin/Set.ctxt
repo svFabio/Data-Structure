@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Set
+comment1.params=
+comment1.target=Set()
+comment2.params=
+comment2.target=boolean\ esVacia()
+comment3.params=aux\ dato
+comment3.target=Set.NodoDE\ buscar(Set.NodoDE,\ java.lang.Object)
+comment4.params=dato
+comment4.target=void\ insertar(java.lang.Object)
+numComments=5

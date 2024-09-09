@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MenorCercano
+comment0.text=\r\nClase\ MenorCercano\ que\ proporciona\ una\ funcionalidad\ para\ encontrar\ el\ menor\ elemento\ cercano\ en\ un\ array.
+comment1.params=ar
+comment1.target=int[]\ menorCercano(int[])
+comment1.text=\ M\u00E9todo\ que\ encuentra\ el\ menor\ elemento\ cercano\ a\ cada\ elemento\ en\ un\ array.\r\n\r\n\ @param\ ar\ El\ array\ de\ entrada.\r\n\ @return\ Un\ array\ de\ enteros\ donde\ cada\ posici\u00F3n\ i\ contiene\ el\ menor\ elemento\r\na\ la\ izquierda\ de\ ar[i]\ que\ es\ menor\ que\ ar[i],\ o\ 0\ si\ no\ hay\ tal\ elemento.
+numComments=2

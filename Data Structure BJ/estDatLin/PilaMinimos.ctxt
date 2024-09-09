@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PilaMinimos
+comment0.text=Clase\ que\ implementa\ una\ pila\ que\ puede\ devolver\ el\ m\u00EDnimo\ elemento\ en\ tiempo\ constante.\r\n
+comment1.params=
+comment1.target=PilaMinimos()
+comment2.params=dato
+comment2.target=void\ push(int)
+comment2.text=\r\n\ M\u00E9todo\ para\ agregar\ un\ elemento\ a\ la\ pila.\r\n\ @param\ dato\ El\ dato\ a\ agregar.\r\n
+comment3.params=
+comment3.target=Par\ pop()
+comment3.text=\ M\u00E9todo\ para\ eliminar\ y\ devolver\ el\ elemento\ en\ la\ cima\ de\ la\ pila.\r\n@return\ El\ par\ que\ se\ encuentra\ en\ la\ cima\ de\ la\ pila.
+comment4.params=
+comment4.target=int\ getTope()
+comment4.text=M\u00E9todo\ para\ obtener\ el\ elemento\ en\ la\ cima\ de\ la\ pila\ sin\ eliminarlo.\r\nreturn\ El\ primer\ elemento\ del\ par\ en\ la\ cima\ de\ la\ pila.
+comment5.params=
+comment5.target=int\ getMinimo()
+comment5.text=M\u00E9todo\ para\ obtener\ el\ m\u00EDnimo\ elemento\ de\ la\ pila.\r\n@return\ El\ segundo\ elemento\ del\ par\ en\ la\ cima\ de\ la\ pila,\ que\ es\ el\ m\u00EDnimo.
+numComments=6

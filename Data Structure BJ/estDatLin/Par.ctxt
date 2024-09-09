@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Par
+comment0.text=\ Clase\ que\ representa\ un\ par\ de\ elementos\ comparables.\r\n\ @param\ <T>\ El\ tipo\ de\ los\ elementos\ del\ par,\ que\ deben\ ser\ comparables.\r\n
+comment1.params=
+comment1.target=Par()
+comment1.text=\r\n\ Constructor\ por\ defecto\ que\ inicializa\ ambos\ elementos\ a\ null.\r\n
+comment2.params=first\ second
+comment2.target=Par(java.lang.Comparable,\ java.lang.Comparable)
+comment2.text=\r\n\ Constructor\ que\ inicializa\ el\ par\ con\ dos\ elementos\ dados.\r\n\ @param\ first\ El\ primer\ elemento\ del\ par.\r\n\ @param\ second\ El\ segundo\ elemento\ del\ par.\r\n
+comment3.params=
+comment3.target=java.lang.Comparable\ getFirst()
+comment3.text=\r\n\ Obtiene\ el\ primer\ elemento\ del\ par.\r\n\ @return\ El\ primer\ elemento\ del\ par.\r\n
+comment4.params=
+comment4.target=java.lang.Comparable\ getSecond()
+comment4.text=\r\n\ Obtiene\ el\ segundo\ elemento\ del\ par.\r\n\ @return\ El\ segundo\ elemento\ del\ par.\r\n
+comment5.params=f
+comment5.target=void\ setFirst(java.lang.Comparable)
+comment5.text=\r\n\ Establece\ el\ primer\ elemento\ del\ par.\r\n\ @param\ f\ El\ primer\ elemento\ del\ par.\r\n
+comment6.params=s
+comment6.target=void\ setSecond(java.lang.Comparable)
+comment6.text=\r\n\ Establece\ el\ segundo\ elemento\ del\ par.\r\n\ @param\ s\ El\ segundo\ elemento\ del\ par.\r\n
+comment7.params=otroPar
+comment7.target=int\ compareTo(Par)
+comment7.text=\r\n\ Compara\ este\ par\ con\ otro\ par\ dado.\r\n\ @param\ otroPar\ El\ otro\ par\ con\ el\ que\ se\ compara.\r\n\ @return\ Un\ valor\ negativo\ si\ este\ par\ es\ menor\ que\ el\ otro\ par,\r\n\ \ \ \ \ \ \ \ \ cero\ si\ son\ iguales\ y\ un\ valor\ positivo\ si\ este\ par\ es\ mayor\ que\ el\ otro\ par.\r\n
+numComments=8

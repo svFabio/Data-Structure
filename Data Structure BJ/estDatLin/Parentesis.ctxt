@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Parentesis
+comment0.text=Clase\ Parentesis\ que\ proporciona\ una\ funcionalidad\ para\ verificar\ el\ balance\ de\ par\u00E9ntesis\ en\ una\ cadena.
+comment1.params=cad
+comment1.target=boolean\ balanceado(java.lang.String)
+comment1.text=\ M\u00E9todo\ que\ verifica\ si\ los\ par\u00E9ntesis\ en\ una\ cadena\ est\u00E1n\ balanceados.\r\n\ @param\ cad\ La\ cadena\ de\ entrada\ que\ contiene\ los\ par\u00E9ntesis.\r\n@return\ true\ si\ los\ par\u00E9ntesis\ est\u00E1n\ balanceados,\ false\ en\ caso\ contrario.
+numComments=2

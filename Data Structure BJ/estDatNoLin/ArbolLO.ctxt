@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ArbolLO
+comment1.params=
+comment1.target=ArbolLO()
+comment2.params=
+comment2.target=boolean\ vacia()
+comment3.params=dato
+comment3.target=ArbolLO(java.lang.Comparable)
+comment4.params=a\ dato
+comment4.target=void\ intercambio(ArbolLO,\ java.lang.Comparable)
+numComments=5

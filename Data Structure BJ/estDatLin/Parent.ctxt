@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Parent
+comment0.text=\r\n\ 2.-\ (4\ puntos)\ Dada\ una\ cadena\ formada\ por\ par\u00E9ntesis\ de\ apertura\ y\ cierre,\ hallar\ la\ longitud\r\nde\ la\ subcadena\ de\ par\u00E9ntesis\ v\u00E1lida\ m\u00E1s\ larga.\ El\ m\u00E9todo\ principal\ deber\u00E1\ tener\ la\ siguiente\r\nfirma\:\ parentesisValido(String\ cad)\:\ int\r\nEjemplo1\:\ Si\ se\ proporciona\ la\ cadena\ ((()\ la\ respuesta\ ser\u00E1\ 2.\ Ya\ que\ la\ subcadena\ m\u00E1s\ larga\r\nque\ se\ puede\ formar\ es\ ().\r\nEjemplo2\:\ Si\ se\ proporciona\ la\ cadena\ ()(()))))\ la\ respuesta\ ser\u00E1\ 6.\ Ya\ que\ la\ subcadena\ m\u00E1s\ larga\r\nque\ se\ puede\ formar\ es\ ()(()).\r\nDebes\ usar\ la\ o\ las\ estructuras\ de\ datos\ que\ mejor\ se\ adapten\ al\ problema.\r\n\r\n
+comment1.params=cad
+comment1.target=int\ parentesisValido(java.lang.String)
+numComments=2

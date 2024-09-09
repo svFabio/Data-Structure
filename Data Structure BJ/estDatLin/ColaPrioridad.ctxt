@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ColaPrioridad
+comment1.params=dato
+comment1.target=void\ encolar(java.lang.Comparable)
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ColaVolteada
+comment0.text=\ Clase\ que\ proporciona\ una\ operaci\u00F3n\ para\ voltear\ los\ primeros\ k\ elementos\ de\ una\ cola.\r\n
+comment1.params=cola\ k\ n
+comment1.target=Cola\ colavolteada(Cola,\ int,\ int)
+comment1.text=M\u00E9todo\ que\ voltea\ los\ primeros\ k\ elementos\ de\ una\ cola.
+numComments=2

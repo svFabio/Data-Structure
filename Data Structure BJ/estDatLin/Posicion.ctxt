@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Posicion
+comment1.params=x\ y\ distancia
+comment1.target=Posicion(int,\ int,\ int)
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Laberinto
+comment1.params=laberinto\ i\ j
+comment1.target=int\ distanciaMinima(char[][],\ int,\ int)
+comment2.params=x\ y\ filas\ columnas
+comment2.target=boolean\ esValido(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=int\ Prueba()
+numComments=4
